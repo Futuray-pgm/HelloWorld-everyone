@@ -61,3 +61,41 @@ You need to add this expression in your script.
 ```ocaml
 print_endline "Hello, World! by UserName"
 ```
+
+## <picture><img alt="source : https://en.wikipedia.org/wiki/File:JavaScript-logo.png" src="javascript.png" height="16" width="16"></picture>&nbsp;JavaScript
+
+You need to add this statement in your script.
+
+```js
+console.log("Hello, World! by UserName")
+```
+
+## <picture><img alt="source : https://cdn.worldvectorlogo.com/logos/gopher.svg" src="go.svg" height="16" width="16"></picture>&nbsp;Go
+
+You need to add this text after the `package main` declaration
+
+```go
+import "fmt"
+```
+
+
+And this statement in the main function
+
+```go
+fmt.Println("Hello, World! by UserName")
+```
+
+## <picture><img alt="source : https://gleam.run/images/lucy/lucy.svg" src="gleam.svg" height="16" width="16"></picture>&nbsp;Gleam
+
+You need to add this text at the beginning of the file
+
+```gleam
+import io
+```
+
+And this text at the end of the file
+
+```gleam
+io.println("Hello, World! by UserName")
+```
+
